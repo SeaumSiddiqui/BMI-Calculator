@@ -1,0 +1,32 @@
+seaum, Male
+47.0, 1.76, Underweight, 15.173037190082646
+mahir, Male
+82.0, 1.557528, OBESE, 33.801978935826575
+sami, Male
+55.0, 1.7, Underweight, 19.031141868512112
+maria, Female
+40.0, 1.252728, Normal weight, 25.488625846898184
+zahid, Male
+65.25, 1.70688, Normal weight, 22.396210289869558
+navid, Male
+54.0, 1.70688, Underweight, 18.53479472265067
+demo1, Male
+65.0kg, 1.76m, Normal weight, 20.983987603305785
+demo2, Male
+80.739376lbs, 1.70688in, Slightly overweight, 27.712736299905703
+demo3, Male
+80.739376 lbs, 2.032 in, Underweight, 19.554106733213462
+demo4, Male
+90.7184 lbs, 1.9177 in, Normal weight, 24.66800600457918
+demo5, Male
+46.99996166302216 lbs, 1.7678399999999999 in, Underweight, 15.038744855218845
+demo6, Male
+46.99996166302216kg, 1.7678399999999999m, Underweight, 15.038744855218845
+jidny, Male
+67.0kg, 1.557528m, Slightly overweight, 27.618690106102203
+mahir, Male
+82.0kg, 1.8034m, Normal weight, 25.21330176562357
+mihir, Male
+69.0kg, 1.79832m, Normal weight, 21.336105106376642
+Zehan, Male
+99.0kg, 1.79832m, Overweight, 30.6126725439317
